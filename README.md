@@ -1,3 +1,1 @@
-# hello-world
-Hi Humans!
-Another raining day with a bit tired.
+I don't think this is a good idea.
